@@ -1,0 +1,1 @@
+require 'faraday_middleware/oauth2_refresh'
