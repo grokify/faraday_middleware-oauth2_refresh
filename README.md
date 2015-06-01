@@ -1,5 +1,12 @@
 # FaradayMiddleware::OAuth2Refresh
 
+[![Gem Version](https://badge.fury.io/rb/araday_middleware-oauth2_refresh.svg)](http://badge.fury.io/rb/araday_middleware-oauth2_refresh)
+[![Build Status](https://img.shields.io/travis/grokify/araday_middleware-oauth2_refresh/master.svg)](https://travis-ci.org/grokify/araday_middleware-oauth2_refresh)
+[![Code Climate](https://codeclimate.com/github/grokify/araday_middleware-oauth2_refresh/badges/gpa.svg)](https://codeclimate.com/github/grokify/araday_middleware-oauth2_refresh)
+[![Coverage Status](https://coveralls.io/repos/grokify/araday_middleware-oauth2_refresh/badge.svg?branch=master)](https://coveralls.io/r/grokify/araday_middleware-oauth2_refresh?branch=master)
+[![Docs](https://img.shields.io/badge/docs-rubydoc-blue.svg)](http://www.rubydoc.info/gems/faraday_middleware-oauth2_refresh/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/grokify/faraday_middleware-oauth2_refresh/master/LICENSE.txt)
+
 Faraday middleware to manage OAuth token authorization with token refresh.
 
 ## Description
