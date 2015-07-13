@@ -52,8 +52,10 @@ conn.get "/foo" # sends token
 
 ## Change Log
 
-- **2015-05-30**: 0.0.1
-  - Initial public release
+- **2015-05-31**: 0.0.2
+  - Update dependencies
+- **2015-05-31**: 0.0.1
+  - Initial release
 
 ## Links
 
