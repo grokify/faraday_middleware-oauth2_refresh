@@ -55,6 +55,20 @@ conn.get "/foo" # sends token
 - **2015-05-30**: 0.0.1
   - Initial public release
 
-## Problems, Comments, Suggestions?
+## Links
 
-All of the above are most welcome on Github.
+Project Repo
+
+* https://github.com/grokify/faraday_middleware-oauth2_refresh
+
+## Problems, Comments, Suggestions, Contributions?
+
+Any reports of problems, comments or suggestions are most welcome.
+
+Please report these on [Github](https://github.com/grokify/faraday_middleware-oauth2_refresh)
+
+## License
+
+RingCentral SDK is available under an MIT-style license. See {file:LICENSE.txt} for details.
+
+RingCentral SDK &copy; 2015 by John Wang
