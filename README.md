@@ -1,11 +1,14 @@
 # FaradayMiddleware::OAuth2Refresh
 
-[![Gem Version](https://badge.fury.io/rb/faraday_middleware-oauth2_refresh.svg)](http://badge.fury.io/rb/faraday_middleware-oauth2_refresh)
-[![Build Status](https://img.shields.io/travis/grokify/faraday_middleware-oauth2_refresh/master.svg)](https://travis-ci.org/grokify/faraday_middleware-oauth2_refresh)
-[![Code Climate](https://codeclimate.com/github/grokify/faraday_middleware-oauth2_refresh/badges/gpa.svg)](https://codeclimate.com/github/grokify/faraday_middleware-oauth2_refresh)
-[![Coverage Status](https://coveralls.io/repos/grokify/faraday_middleware-oauth2_refresh/badge.svg?branch=master)](https://coveralls.io/r/grokify/faraday_middleware-oauth2_refresh?branch=master)
-[![Docs](https://img.shields.io/badge/docs-rubydoc-blue.svg)](http://www.rubydoc.info/gems/faraday_middleware-oauth2_refresh/)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/grokify/faraday_middleware-oauth2_refresh/master/LICENSE.txt)
+[![Gem Version][gem-version-svg]][gem-version-link]
+[![Build Status][build-status-svg]][build-status-link]
+[![Coverage Status][coverage-status-svg]][coverage-status-link]
+[![Dependency Status][dependency-status-svg]][dependency-status-link]
+[![Code Climate][codeclimate-status-svg]][codeclimate-status-link]
+[![Scrutinizer Code Quality][scrutinizer-status-svg]][scrutinizer-status-link]
+[![Downloads][downloads-svg]][downloads-link]
+[![Docs][docs-rubydoc-svg]][docs-rubydoc-link]
+[![License][license-svg]][license-link]
 
 Faraday middleware to manage OAuth token authorization with token refresh.
 
@@ -71,6 +74,25 @@ Please report these on [Github](https://github.com/grokify/faraday_middleware-oa
 
 ## License
 
-RingCentral SDK is available under an MIT-style license. See {file:LICENSE.txt} for details.
+FaradayMiddleware::OAuth2Refresh is available under an MIT-style license. See {file:LICENSE.txt} for details.
 
-RingCentral SDK &copy; 2015-2016 by John Wang
+FaradayMiddleware::OAuth2Refresh &copy; 2015-2016 by John Wang
+
+ [gem-version-svg]: https://badge.fury.io/rb/faraday_middleware-oauth2_refresh.svg
+ [gem-version-link]: http://badge.fury.io/rb/faraday_middleware-oauth2_refresh
+ [downloads-svg]: http://ruby-gem-downloads-badge.herokuapp.com/faraday_middleware-oauth2_refresh
+ [downloads-link]: https://rubygems.org/gems/faraday_middleware-oauth2_refresh
+ [build-status-svg]: https://api.travis-ci.org/grokify/faraday_middleware-oauth2_refresh.svg?branch=master
+ [build-status-link]: https://travis-ci.org/grokify/faraday_middleware-oauth2_refresh
+ [coverage-status-svg]: https://coveralls.io/repos/grokify/faraday_middleware-oauth2_refresh/badge.svg?branch=master
+ [coverage-status-link]: https://coveralls.io/r/grokify/faraday_middleware-oauth2_refresh?branch=master
+ [dependency-status-svg]: https://gemnasium.com/grokify/faraday_middleware-oauth2_refresh.svg
+ [dependency-status-link]: https://gemnasium.com/grokify/faraday_middleware-oauth2_refresh
+ [codeclimate-status-svg]: https://codeclimate.com/github/grokify/faraday_middleware-oauth2_refresh/badges/gpa.svg
+ [codeclimate-status-link]: https://codeclimate.com/github/grokify/faraday_middleware-oauth2_refresh
+ [scrutinizer-status-svg]: https://scrutinizer-ci.com/g/grokify/faraday_middleware-oauth2_refresh/badges/quality-score.png?b=master
+ [scrutinizer-status-link]: https://scrutinizer-ci.com/g/grokify/faraday_middleware-oauth2_refresh/?branch=master
+ [docs-rubydoc-svg]: https://img.shields.io/badge/docs-rubydoc-blue.svg
+ [docs-rubydoc-link]: http://www.rubydoc.info/gems/faraday_middleware-oauth2_refresh/
+ [license-svg]: https://img.shields.io/badge/license-MIT-blue.svg
+ [license-link]: https://github.com/grokify/faraday_middleware-oauth2_refresh/blob/master/LICENSE.txt
