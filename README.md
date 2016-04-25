@@ -73,4 +73,4 @@ Please report these on [Github](https://github.com/grokify/faraday_middleware-oa
 
 RingCentral SDK is available under an MIT-style license. See {file:LICENSE.txt} for details.
 
-RingCentral SDK &copy; 2015 by John Wang
+RingCentral SDK &copy; 2015-2016 by John Wang
