@@ -42,7 +42,7 @@ require 'faraday_middleware/oauth2_refresh'
 client = OAuth2::Client.new('my_client_id', 'my_client_secret', site: 'https://example.com' )
 token  = client.password.get_token('username', 'password', { headers: { 'Authorization' => 'Basic my_api_key' } })
 
-conn = Faraday.new(:url => "http://example.com") do |builder|
+conn = Faraday.new(url: "http://example.com") do |builder|
   builder.request :oauth2_refresh, token
   builder.adapter Faraday.default_adapter
 end
