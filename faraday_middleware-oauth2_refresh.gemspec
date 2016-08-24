@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'faraday_middleware-oauth2_refresh'
-  s.version     = '0.0.2'
-  s.date        = '2015-05-31'
+  s.version     = '0.0.3'
+  s.date        = '2016-08-23'
   s.summary     = 'Faraday OAuth2 request middleware with token refresh'
   s.description = 'This Faraday middleware gem adds OAuth2 token handling with token refresh'
   s.authors     = ['John Wang']
@@ -20,4 +20,9 @@ Gem::Specification.new do |s|
   ]
   s.add_dependency 'faraday', '~> 0.9', '>= 0.9'
   s.add_dependency 'faraday_middleware', '~> 0', '>= 0'
+
+  s.add_development_dependency 'coveralls'
+  s.add_development_dependency 'rake'
+  s.add_development_dependency 'simplecov'
+  s.add_development_dependency 'test-unit'
 end
