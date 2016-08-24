@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 require 'test/unit'
 require 'faraday'
 require 'faraday_middleware'
