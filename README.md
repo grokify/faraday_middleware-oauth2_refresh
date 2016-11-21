@@ -6,6 +6,7 @@
 [![Dependency Status][dependency-status-svg]][dependency-status-link]
 [![Code Climate][codeclimate-status-svg]][codeclimate-status-link]
 [![Scrutinizer Code Quality][scrutinizer-status-svg]][scrutinizer-status-link]
+[![Referenes][references-svg]][references-link]
 [![Downloads][downloads-svg]][downloads-link]
 [![Docs][docs-rubydoc-svg]][docs-rubydoc-link]
 [![License][license-svg]][license-link]
@@ -89,6 +90,8 @@ FaradayMiddleware::OAuth2Refresh &copy; 2015-2016 by John Wang
  [codeclimate-status-link]: https://codeclimate.com/github/grokify/faraday_middleware-oauth2_refresh
  [scrutinizer-status-svg]: https://scrutinizer-ci.com/g/grokify/faraday_middleware-oauth2_refresh/badges/quality-score.png?b=master
  [scrutinizer-status-link]: https://scrutinizer-ci.com/g/grokify/faraday_middleware-oauth2_refresh/?branch=master
+ [references-svg]: https://www.versioneye.com/ruby/faraday_middleware-oauth2_refresh/reference_badge.svg
+ [references-link]: https://www.versioneye.com/ruby/faraday_middleware-oauth2_refresh/
  [docs-rubydoc-svg]: https://img.shields.io/badge/docs-rubydoc-blue.svg
  [docs-rubydoc-link]: http://www.rubydoc.info/gems/faraday_middleware-oauth2_refresh/
  [license-svg]: https://img.shields.io/badge/license-MIT-blue.svg
