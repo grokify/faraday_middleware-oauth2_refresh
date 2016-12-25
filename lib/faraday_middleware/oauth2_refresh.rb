@@ -15,7 +15,7 @@ module FaradayMiddleware
         @oauth2_token = @oauth2_token.refresh!({ headers: { 'Authorization' => 'Basic ' + get_api_key() } })
       end
       
-      if !@oauth2_token.token.to_s.empty?
+      unless @oauth2_token.token.to_s.empty?
         env[:request_headers][AUTH_HEADER] = %(Bearer #{@oauth2_token.token})
       end
 
