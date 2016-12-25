@@ -1,5 +1,7 @@
 # FaradayMiddleware::OAuth2Refresh
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/88aedf52809d460891546fc7e11bd2c6)](https://www.codacy.com/app/grokify/faraday_middleware-oauth2_refresh?utm_source=github.com&utm_medium=referral&utm_content=grokify/faraday_middleware-oauth2_refresh&utm_campaign=badger)
+
 [![Gem Version][gem-version-svg]][gem-version-link]
 [![Build Status][build-status-svg]][build-status-link]
 [![Coverage Status][coverage-status-svg]][coverage-status-link]
