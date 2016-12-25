@@ -4,6 +4,7 @@
 [![Build Status][build-status-svg]][build-status-link]
 [![Coverage Status][coverage-status-svg]][coverage-status-link]
 [![Dependency Status][dependency-status-svg]][dependency-status-link]
+[![Codacy Badge][codacy-svg]][codacy-link]
 [![Code Climate][codeclimate-status-svg]][codeclimate-status-link]
 [![Scrutinizer Code Quality][scrutinizer-status-svg]][scrutinizer-status-link]
 [![Referenes][references-svg]][references-link]
