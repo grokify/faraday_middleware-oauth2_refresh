@@ -72,7 +72,7 @@ Please report these on [Github](https://github.com/grokify/faraday_middleware-oa
 
 ## License
 
-FaradayMiddleware::OAuth2Refresh is available under an MIT-style license. See {file:LICENSE.txt} for details.
+FaradayMiddleware::OAuth2Refresh is available under an MIT-style license. See {file:LICENSE.md} for details.
 
 FaradayMiddleware::OAuth2Refresh &copy; 2015-2016 by John Wang
 
@@ -86,6 +86,8 @@ FaradayMiddleware::OAuth2Refresh &copy; 2015-2016 by John Wang
  [coverage-status-link]: https://coveralls.io/r/grokify/faraday_middleware-oauth2_refresh?branch=master
  [dependency-status-svg]: https://gemnasium.com/grokify/faraday_middleware-oauth2_refresh.svg
  [dependency-status-link]: https://gemnasium.com/grokify/faraday_middleware-oauth2_refresh
+ [codacy-svg]: https://api.codacy.com/project/badge/Grade/88aedf52809d460891546fc7e11bd2c6
+ [codacy-link]: https://www.codacy.com/app/grokify/faraday_middleware-oauth2_refresh
  [codeclimate-status-svg]: https://codeclimate.com/github/grokify/faraday_middleware-oauth2_refresh/badges/gpa.svg
  [codeclimate-status-link]: https://codeclimate.com/github/grokify/faraday_middleware-oauth2_refresh
  [scrutinizer-status-svg]: https://scrutinizer-ci.com/g/grokify/faraday_middleware-oauth2_refresh/badges/quality-score.png?b=master
