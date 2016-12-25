@@ -27,7 +27,7 @@ module FaradayMiddleware
       return api_key
     end
 
-    def initialize(app=nil, token=nil, options={})
+    def initialize(app = nil, token = nil)
       super app
       @oauth2_token = token
     end
