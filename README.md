@@ -74,7 +74,7 @@ Please report these on [Github](https://github.com/grokify/faraday_middleware-oa
 
 FaradayMiddleware::OAuth2Refresh is available under an MIT-style license. See {file:LICENSE.md} for details.
 
-FaradayMiddleware::OAuth2Refresh &copy; 2015-2016 by John Wang
+FaradayMiddleware::OAuth2Refresh &copy; 2015-2019 by John Wang
 
  [gem-version-svg]: https://badge.fury.io/rb/faraday_middleware-oauth2_refresh.svg
  [gem-version-link]: http://badge.fury.io/rb/faraday_middleware-oauth2_refresh
