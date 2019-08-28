@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = 'This Faraday middleware gem adds OAuth2 token handling with token refresh'
   s.authors     = ['John Wang']
   s.email       = 'johncwang@gmail.com'
-  s.homepage    = 'https://github.com/grokify/'
+  s.homepage    = 'https://github.com/grokify/faraday_middleware-oauth2_refresh'
   s.licenses    = ['MIT']
   s.files       = [
     'CHANGELOG.md',
