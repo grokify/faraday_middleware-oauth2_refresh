@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'faraday_middleware', '~> 0', '>= 0'
 
   s.add_development_dependency 'coveralls', '~> 0'
-  s.add_development_dependency 'rake', '~> 11'
+  s.add_development_dependency 'rake', '>= 12.3.3'
   s.add_development_dependency 'simplecov', '~> 0'
   s.add_development_dependency 'test-unit', '~> 3'
 end
