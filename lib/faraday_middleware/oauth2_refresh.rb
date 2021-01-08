@@ -23,7 +23,7 @@ module FaradayMiddleware
     end
 
     def get_api_key
-      api_key = Base64.encode64("#{@oauth2_token.client.id}:#{@oauth2_token.client.secret}").gsub(/[\s\t\r\n]/,'')
+      api_key = Base64.encode64("#{@oauth2_token.client.id}:#{@oauth2_token.client.secret}").gsub(/[\s]/,'')
       return api_key
     end
 
