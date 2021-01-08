@@ -6,7 +6,6 @@
 [![Codacy Badge][codacy-svg]][codacy-url]
 [![Code Climate][codeclimate-status-svg]][codeclimate-status-url]
 [![Scrutinizer Code Quality][scrutinizer-status-svg]][scrutinizer-status-url]
-[![Referenes][references-svg]][references-url]
 [![Downloads][downloads-svg]][downloads-url]
 [![Docs][docs-rubydoc-svg]][docs-rubydoc-url]
 [![License][license-svg]][license-url]
