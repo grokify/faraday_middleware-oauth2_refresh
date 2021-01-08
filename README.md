@@ -1,17 +1,27 @@
 # FaradayMiddleware::OAuth2Refresh
-<center>
+
+<div align="center">
+
 [![Gem Version][gem-version-svg]][gem-version-url]
 [![Build Status][build-status-svg]][build-status-url]
 [![Coverage Status][coverage-status-svg]][coverage-status-url]
+
+</div>
+<div align="center">
 
 [![Codacy Badge][codacy-svg]][codacy-url]
 [![Code Climate][codeclimate-status-svg]][codeclimate-status-url]
 [![Scrutinizer Code Quality][scrutinizer-status-svg]][scrutinizer-status-url]
 
+</div>
+<div align="center">
+
 [![Downloads][downloads-svg]][downloads-url]
 [![Docs][docs-rubydoc-svg]][docs-rubydoc-url]
 [![License][license-svg]][license-url]
-</center>
+
+</div>
+
 Faraday middleware to manage OAuth token authorization with token refresh.
 
 ## Description
