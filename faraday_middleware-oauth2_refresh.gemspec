@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'faraday_middleware-oauth2_refresh'
-  s.version     = '0.0.3'
-  s.date        = '2016-08-23'
+  s.version     = '0.1.0'
+  s.date        = '2021-09-28'
   s.summary     = 'Faraday OAuth2 request middleware with token refresh'
   s.description = 'This Faraday middleware gem adds OAuth2 token handling with token refresh'
   s.authors     = ['John Wang']
