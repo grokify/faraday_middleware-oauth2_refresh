@@ -90,7 +90,7 @@ FaradayMiddleware::OAuth2Refresh &copy; 2015-2021 by John Wang
  [gem-version-url]: http://badge.fury.io/rb/faraday_middleware-oauth2_refresh
  [downloads-svg]: http://ruby-gem-downloads-badge.herokuapp.com/faraday_middleware-oauth2_refresh
  [downloads-url]: https://rubygems.org/gems/faraday_middleware-oauth2_refresh
- [build-status-svg]: https://github.com/grokify/faraday_middleware-oauth2_refresh/workflows/Ruby%20CI/badge.svg?branch=master
+ [build-status-svg]: https://github.com/grokify/faraday_middleware-oauth2_refresh/workflows/ruby%20build/badge.svg?branch=master
  [build-status-url]: https://github.com/grokify/faraday_middleware-oauth2_refresh/actions
  [coverage-status-svg]: https://coveralls.io/repos/grokify/faraday_middleware-oauth2_refresh/badge.svg?branch=master
  [coverage-status-url]: https://coveralls.io/r/grokify/faraday_middleware-oauth2_refresh?branch=master
