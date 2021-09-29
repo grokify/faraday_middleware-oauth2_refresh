@@ -9,7 +9,6 @@
 </div>
 <div align="center">
 
-[![Codacy Badge][codacy-svg]][codacy-url]
 [![Code Climate][codeclimate-status-svg]][codeclimate-status-url]
 [![Scrutinizer Code Quality][scrutinizer-status-svg]][scrutinizer-status-url]
 
