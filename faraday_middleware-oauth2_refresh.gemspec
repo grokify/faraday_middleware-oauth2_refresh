@@ -10,7 +10,8 @@ Gem::Specification.new do |s|
   s.licenses    = ['MIT']
   s.files       = [
     'CHANGELOG.md',
-    'LICENSE.md',
+    'CODE_OF_CONDUCT.md',
+    'LICENSE.txt',
     'README.md',
     'Rakefile',
     'VERSION.txt',
