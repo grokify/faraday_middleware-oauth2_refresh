@@ -15,7 +15,6 @@
 </div>
 <div align="center">
 
-[![Downloads][downloads-svg]][downloads-url]
 [![Docs][docs-rubydoc-svg]][docs-rubydoc-url]
 [![License][license-svg]][license-url]
 
