@@ -19,6 +19,8 @@ Gem::Specification.new do |s|
     'lib/faraday_middleware/oauth2_refresh.rb',
     'test/test_setup.rb'
   ]
+  s.required_ruby_version = '>= 2.0.0'
+  
   s.add_dependency 'faraday', '~> 1.10', '>= 1.10.3'
   s.add_dependency 'faraday_middleware', '~> 1.2', '>= 1.2.0'
 
