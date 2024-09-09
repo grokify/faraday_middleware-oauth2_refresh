@@ -24,7 +24,7 @@ Faraday middleware to manage OAuth token authorization with token refresh.
 
 ## Description
 
-This gem is a piece of Faraday middleware that adds OAuth token handling using the [oauth2 gem](https://github.com/intridea/oauth2).
+This gem is a piece of Faraday middleware that adds OAuth token handling using the [oauth2 gem](https://gitlab.com/oauth-xx/oauth2/).
 
 ## Installation
 
